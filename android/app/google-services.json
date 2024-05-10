@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977521016396",
+    "project_id": "stayswasth-ind",
+    "storage_bucket": "stayswasth-ind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977521016396:android:437734b6520f06e7bfbee9",
+        "android_client_info": {
+          "package_name": "com.example.stay_swasth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxco12KY05V56nYztoGDF8wnz29xSrjVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
